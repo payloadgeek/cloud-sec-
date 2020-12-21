@@ -1,0 +1,11 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Program Files\Unity\Editor\</UnityInstallationDir>
+        <UnityWSASolutionName>TapToPlace</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\WindowsStoreApp\</UnityWSASolutionDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <UnityProjectDir>C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\</UnityProjectDir>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+</Project>

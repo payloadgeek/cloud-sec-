@@ -1,0 +1,32 @@
+total 1004
+-rw-r--r-- 1 sysadmin sysadmin       0 Oct  2 01:59 1001.txt
+drwxr-xr-x 2 sysadmin sysadmin    4096 Aug 17 20:43 backup
+-rw-r--r-- 1 sysadmin sysadmin 1003520 Oct  2 00:16 backup.tar
+drwxr-xr-x 2 sysadmin sysadmin    4096 Aug 17 20:43 doctors
+drwxr-xr-x 4 sysadmin sysadmin    4096 Aug 17 20:43 emergency
+drwxr-xr-x 2 sysadmin sysadmin    4096 Aug 17 20:43 patients
+drwxr-xr-x 5 sysadmin sysadmin    4096 Oct  2 00:36 testenvir
+drwxr-xr-x 3 sysadmin sysadmin    4096 Aug 17 20:43 treatments
+total 284
+-rw------- 1 sysadmin sysadmin   6236 Aug 17 20:43 patients.10.csv
+-rw------- 1 sysadmin sysadmin   6250 Aug 17 20:43 patients.11.csv
+-rw------- 1 sysadmin sysadmin   6311 Aug 17 20:43 patients.12.csv
+-rw------- 1 sysadmin sysadmin   6268 Aug 17 20:43 patients.13.csv
+-rw------- 1 sysadmin sysadmin   6273 Aug 17 20:43 patients.14.csv
+-rw------- 1 sysadmin sysadmin   6170 Aug 17 20:43 patients.15.csv
+-rw------- 1 sysadmin sysadmin   6361 Aug 17 20:43 patients.16.csv
+-rw------- 1 sysadmin sysadmin   6287 Aug 17 20:43 patients.17.csv
+-rw------- 1 sysadmin sysadmin   6208 Aug 17 20:43 patients.18.csv
+-rw------- 1 sysadmin sysadmin   6102 Aug 17 20:43 patients.19.csv
+-rw------- 1 sysadmin sysadmin   6329 Aug 17 20:43 patients.1.csv
+-rw------- 1 sysadmin sysadmin   6288 Aug 17 20:43 patients.20.csv
+-rw------- 1 sysadmin sysadmin   6202 Aug 17 20:43 patients.2.csv
+-rw------- 1 sysadmin sysadmin   6211 Aug 17 20:43 patients.3.csv
+-rw------- 1 sysadmin sysadmin   6520 Aug 17 20:43 patients.4.csv
+-rw------- 1 sysadmin sysadmin   6363 Aug 17 20:43 patients.5.csv
+-rw------- 1 sysadmin sysadmin   6232 Aug 17 20:43 patients.6.csv
+-rw------- 1 sysadmin sysadmin   6202 Aug 17 20:43 patients.7.csv
+-rw------- 1 sysadmin sysadmin   6236 Aug 17 20:43 patients.8.csv
+-rw------- 1 sysadmin sysadmin   6266 Aug 17 20:43 patients.9.csv
+-rw------- 1 sysadmin sysadmin 124379 Aug 17 20:43 patients.csv
+7 directories with patients.csv files HW

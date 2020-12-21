@@ -1,0 +1,4 @@
+-rw-r--r-- 1 root root   1301 Sep 29 19:14 /etc/group
+-rw------- 1 root shadow 1078 Sep 29 19:14 /etc/gshadow
+-rw-r--r-- 1 root root   3173 Sep 30 18:55 /etc/passwd
+-rw------- 1 root root   2757 Sep 29 19:13 /etc/shadow

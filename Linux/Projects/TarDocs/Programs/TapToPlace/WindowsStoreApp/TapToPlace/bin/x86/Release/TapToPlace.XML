@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TapToPlace</name>
+    </assembly>
+    <members>
+        <member name="M:TapToPlace.App.AddAppCallbacks(UnityPlayer.AppCallbacks)">
+            <summary>
+            This is where apps can hook up any additional setup they need to do before Unity intializes.
+            </summary>
+            <param name="appCallbacks"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,4 @@
+C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Hololens-Learning\HoloLen-101\HolographicAcademy-Holograms-101\TapToPlace\WindowsStoreApp\TapToPlace\TapToPlace.csproj;x86

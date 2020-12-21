@@ -1,0 +1,9 @@
+#!/usr/bin/zsh
+
+echo "Thursday Class"
+date
+
+echo "system info: $(uname -a)"
+
+
+
