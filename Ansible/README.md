@@ -88,7 +88,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name                | Publicly Accessible   | Allowed IP Addresses |
 | ------------------- | --------------------- | -------------------- |
-| JumpBox-Provisioner | Yes/No   **---NO---** | 47.158.4.55          |
+| JumpBox-Provisioner | Yes                   | 47.158.4.55          |
 |                     |                       |                      |
 |                     |                       |                      |
 
